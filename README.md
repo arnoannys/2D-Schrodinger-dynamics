@@ -1,2 +1,2 @@
-# 2D-Schr-dinger-dynamics
+# 2D-Schrodinger-dynamics
 Efficient 2D Schrödinger equation solver and it's use for simulating diffraction patterns from slit experiments
